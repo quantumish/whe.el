@@ -1,11 +1,14 @@
 * todos
-- [ ] settings before worker init 
-- [X] bind wheel keys to unused emacs-recognized keys
+- [-] bind wheel keys to unused emacs-recognized keys
+  - [X] function keys
   - [ ] dynamically choose unused keys
-- [ ] enabling autocenter
-- [ ] changing range
+- [X] enabling autocenter
+- [X] changing range/gain/force
 - [ ] ffb settings
 - [ ] send wheel shifts as keypresses
   - [ ] emulated (emacs)
   - [ ] emulated (c++/X11)
-
+- [ ] curate some fun examples
+  - [ ] "roll back" changes
+  - [ ] exert force to force push
+  - [ ] wheel for warning level
